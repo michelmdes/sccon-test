@@ -13,5 +13,7 @@ Saída esperada: {“ALBERTO” = 1, “JOAO” = 3, “MARIA” = 2, “PEDRO�
 ## Resposta
  
  1. Implementação da classe de Agrupamento, ordenação e contagem de strings:
+ - https://github.com/michelmdes/sccon-test/blob/master/src/main/java/br/com/sccon/testesccon/questao2/AgrupadorOrdenadoList.java
  2. Testes unitários de validação: 
+ - https://github.com/michelmdes/sccon-test/blob/master/src/test/java/br/com/sccon/testesccon/questao2/AgrupadorOrdenadoListTest.java
  

@@ -1,4 +1,4 @@
-# Questão 1
+# Questão 3
 
 Considere um sistema que tem os seguintes requisitos:
  - Como usuário, quando seleciono "Cidades" quero ver a lista de cidades.
@@ -22,3 +22,4 @@ deste sistema.
 ![](/src/main/resources/DER-cinema.png)
  
  2. Queries em SQL:
+  - https://github.com/michelmdes/sccon-test/blob/master/src/main/java/br/com/sccon/testesccon/questao3/scripts.sql

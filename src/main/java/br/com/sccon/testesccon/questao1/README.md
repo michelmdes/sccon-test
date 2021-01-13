@@ -15,4 +15,6 @@ possuem a estrutura z = x + y*i (onde x é a parte real e y é a parte imaginár
 ## Resposta
  
  1. Implementação da classe ComplexNumber: 
+ - https://github.com/michelmdes/sccon-test/blob/master/src/main/java/br/com/sccon/testesccon/questao1/ComplexNumber.java
  2. Testes unitários de validação:
+ - https://github.com/michelmdes/sccon-test/blob/master/src/test/java/br/com/sccon/testesccon/questao1/ComplexNumberTest.java

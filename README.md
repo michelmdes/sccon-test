@@ -9,16 +9,13 @@ Desafio SCCON com 3 questões
 ## Questões
  
  1. Classe de números complexos
- - Implementação da solução: 
- - Testes unitários de validação:
+ - https://github.com/michelmdes/sccon-test/tree/master/src/main/java/br/com/sccon/testesccon/questao1
  
  2. Classe de Agrupamento, ordenação e contagem de strings, 
-  - Implementação da solução: 
-  - Testes unitários de validação:
+  - https://github.com/michelmdes/sccon-test/tree/master/src/main/java/br/com/sccon/testesccon/questao2 
   
  3. Diagrama ER Cinema 
-  - Implementação da solução: 
-  - Testes unitários de validação:
+  - https://github.com/michelmdes/sccon-test/tree/master/src/main/java/br/com/sccon/testesccon/questao3
 
 
 ## Autor
